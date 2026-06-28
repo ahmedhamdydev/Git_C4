@@ -1,0 +1,2 @@
+This is a new file in b.txt in the b branch
+
