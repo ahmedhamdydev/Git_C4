@@ -9,3 +9,5 @@ This is the forth line in a.txt
 This is the fifth line in a.txt
 
 This the sixth line in a.txt
+
+a new change from the b branch
